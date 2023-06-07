@@ -38,7 +38,7 @@
 Create your Portfolio Website.
   - Make sure it is responsive 
   - It has following sections:
-    - Proflie picture
+    - Profile picture
     - About Me
     - Contact Info
     - Experience 
