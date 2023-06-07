@@ -49,4 +49,14 @@ Create your Portfolio Website.
     - Project Details
     #### Note: 
     Every section must be present.
+### References:
+- [Golden Resource](https://chat.openai.com/)
+- [HTML](https://www.w3schools.com/html/default.asp)
+- [CSS](https://www.w3schools.com/css/default.asp)
+- [JS](https://www.w3schools.com/js/default.asp)
+- [Tailwind](https://tailwindcss.com/)
+  - [Resources](https://tailwindcss.com/resources)
+  - [Components](https://tailwindui.com/components?ref=sidebar)
+- [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+
 ### Submission must be in `Submission` folder
