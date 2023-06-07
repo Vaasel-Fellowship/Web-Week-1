@@ -1,44 +1,52 @@
-# Mobile-Dev-Week-1
-Introduction to Flutter and Dart
+# Web-Week-1
 
-## Week 1: Introduction to Flutter and Dart
-### Day 1 & 2:
-1. Learn about Flutter and its advantages. (https://youtu.be/sNtuTPyrTNU)
-2. Familiarize with the Dart programming language. (https://youtu.be/fnpD5NCzIIo)
-3. Learn dart from https://dart-tutorial.com/
-   * Some topics you need to learn:
-      * Basic Hello World Porgram
-      * Variables and Constants
-      * Conditions and loops
-      * Lists and method list
-      * Lists and method list
-      * Object-Oriented Programming
-      * Null Safety
-      * Asynchrounous Programing
+## Week 1: Introduction to Web development
+### Day 1:
 
-4. Practice writing simple Dart programs and exercises and push these to github under week1 folder
+- Introduction to HTML: Basic structure, tags, and elements
+- Creating a simple HTML page
+- HTML headings, paragraphs, lists, and links
+- HTML forms and form elements
+### Day 2:
 
-### Day 3 & 4:
-1. Install Flutter SDK and set up your development environment. (https://youtu.be/BqHOtlh3Dd4)
-2. Create a "Hello World" Flutter app and run it on an emulator or device. (https://youtu.be/UPSsxGQRIzs)
-3. Understand concept of widgets in Flutter. (https://youtu.be/7rXDaNAAeak)
-4. Learn about various built-in widgets and how to use them to build user interfaces.
-   * Some widgets you need to learn
-      * Material App
-      * AppBar
-      * Text
-      * TextField
-      * Button
-      * Image
-      * Row
-      * Column
+- HTML tables and images
+- Semantic HTML: using semantic tags like `<header>`, `<nav>`, `<section>`, `<article>`, `<footer>`
+- Introduction to CSS: Inline, internal, and external CSS
+- Selectors and basic CSS properties
+- Changing text properties: color, size, font-family
+### Day 3:
 
-6. Learn to add assests like images and fonts in project.
-7. Experiment with different layout widgets to create UIs.
+- Box model: Understanding margins, borders, padding
+- Positioning elements: static, relative, absolute, fixed
+- Working with floats and clear property
+- Introduction to Flexbox for layout
+- Introduction to JavaScript: Basic syntax and variables
+- Working with arrays and objects
+- Conditional statements: if, else if, else
+### Day 4:
 
+- Loops: for, while, do-while
+- Introduction to Responsive Web Design
+- Media queries and responsive units (px, em, rem, %)
+- Creating fluid layouts with CSS Grid
+- Implementing responsive images and videos
+- Introduction to Bootstrap framework
+- Setting up Bootstrap in your project
+- Introduction to Tailwind CSS framework
+- Setting up Tailwind in your project
 ### Day 5 & 6:
-1. Building simple personal card UI
-2. Sample 
-![Sample Card UI](https://drive.google.com/uc?export=view&id=1JC0hVt3AxwNassG7ixEvvEQzTOWx4MLn)
-
+Create your Portfolio Website.
+  - Make sure it is responsive 
+  - It has following sections:
+    - Proflie picture
+    - About Me
+    - Contact Info
+    - Experience 
+    - Education
+    - Social Medias
+    - Certifications
+    - Contact Form
+    - Project Details
+    #### Note: 
+    Every section must be present.
 ### Submission must be in `Submission` folder
