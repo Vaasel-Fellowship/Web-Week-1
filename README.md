@@ -42,7 +42,6 @@
 
 ### Day 4:
 
-- Loops: for, while, do-while
 - Introduction to Responsive Web Design
 - Media queries and responsive units (px, em, rem, %)
 - Creating fluid layouts with CSS Grid
