@@ -51,6 +51,9 @@
 - Setting up Bootstrap in your project
 - Introduction to Tailwind CSS framework
 - Setting up Tailwind in your project
+- **Links for references**
+  - [Bootstrap Crash Course](https://youtu.be/Jyvffr3aCp0)
+  - [Tailwind Crash Course](https://youtu.be/UBOj6rqRUME)
 
 
 ### Day 5 & 6:
