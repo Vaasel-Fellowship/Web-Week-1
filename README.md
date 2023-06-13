@@ -1,5 +1,6 @@
 # Web-Week-1
-
+## Note:
+***Try to discuss your confusions and understandings on daily basis.***
 ## Week 1: Introduction to Web development
 ### Day 1:
 
@@ -70,6 +71,11 @@ Create your Portfolio Website.
     - Project Details
     #### Note: 
     Every section must be present.
+ #### Deliverables:
+ - Add your github link where your portfolio website is present.
+ - Add Screenshots of your website in submission folder.
+ - Add a readme file in which you can discuss about your confusions.
+
 ### References:
 - [Golden Resource](https://chat.openai.com/)
 - [HTML](https://www.w3schools.com/html/default.asp)
@@ -81,3 +87,4 @@ Create your Portfolio Website.
 - [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
 ### Submission must be in `Submission` folder
+
